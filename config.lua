@@ -22,7 +22,7 @@ Config.PoliceAlert = {
 Config.LockPick = {
     MaxAttemptsPerLock = 3,
     lockpickitem = 'lockpick',
-    difficulty = 10,
+    difficulty = 30,
     hintdelay = 500,
 }
 
@@ -32,7 +32,7 @@ Config.Robberies = {
         Id = 1, --this has to be unique to each robbery
         StartingCoords = {x = -322.36, y = 804.46, z = 117.88}, --coords you have to be near to start the robbery
         EnemyNpcs = true, --if true enemy npcs will spawn and attack the player
-        WaitBeforeLoot = 30000, --wait in ms before player can loot 0 for none
+        WaitBeforeLoot = 60000, --wait in ms before player can loot 0 for none
         LootLocations = { --This is the loot location setup, add as many as youd like
             {
                 LootCoordinates = {x = -325.82, y = 797.02, z = 121.54}, --coordinates of the loot box
@@ -67,7 +67,7 @@ Config.Robberies = {
     {
         Id = 2, --this has to be unique to each robbery
         StartingCoords = {x = -307.49, y = 778.03, z = 118.7}, --coords you have to be near to start the robbery
-        EnemyNpcs = false, --if true enemy npcs will spawn and attack the player
+        EnemyNpcs = true, --if true enemy npcs will spawn and attack the player
         WaitBeforeLoot = 60000, --wait in ms before player can loot 0 for none
         LootLocations = { --This is the loot location setup, add as many as youd like
             {
