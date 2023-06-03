@@ -96,7 +96,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'water', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -110,7 +110,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'apple', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -124,7 +124,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'bandage', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -152,7 +152,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'water', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -166,7 +166,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'apple', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -180,7 +180,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'bandage', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -263,7 +263,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'water', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -277,7 +277,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'apple', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -291,7 +291,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'bandage', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -319,7 +319,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'water', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -333,7 +333,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'apple', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -347,7 +347,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'bandage', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -375,7 +375,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'water', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -389,7 +389,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'apple', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -403,7 +403,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'bandage', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -543,7 +543,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'water', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -557,7 +557,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'apple', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
@@ -571,7 +571,7 @@ Config.Robberies = {
                 CashReward = 0, --amount of cash to reward set 0 for none
                 ItemRewards = { --these are the items it will reward can add as many as youd like
                     {
-                        name = 'goldbar', --name of the item in the database
+                        name = 'bandage', --name of the item in the database
                         count = 3, --the amount of the item to give
                     },
                     {
